@@ -1,0 +1,160 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.1052; Version 2004; 64bit' Language: 'en' Physical Memory: 16194 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/GitHub/VR Shooting Practice
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58682
+Successfully changed project path to: D:/Unity/GitHub/VR Shooting Practice
+D:/Unity/GitHub/VR Shooting Practice
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.82 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/GitHub/VR Shooting Practice/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   30.0.14.7111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56524
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002339 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 30.08 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.939 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004118 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.43 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.011 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1995 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.5 MB.
+System memory in use after: 90.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2436.
+Total: 2.140200 ms (FindLiveObjects: 0.165700 ms CreateObjectMapping: 0.057500 ms MarkObjects: 1.864800 ms  DeleteObjects: 0.051600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/XR/Settings/Open XR Package Settings.asset
+  artifactKey: Guid(38d78e2af1355da48a8d1c603f8e4dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/Settings/Open XR Package Settings.asset using Guid(38d78e2af1355da48a8d1c603f8e4dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52843f8d07c4f7eec1dc6ec03f885001') in 0.039661 seconds
+  Import took 0.042453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019795 seconds.
+  path: Assets/VR Hands 2020/Materials
+  artifactKey: Guid(439571b1b54225746960ad2b9769efe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Hands 2020/Materials using Guid(439571b1b54225746960ad2b9769efe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e78a77da1c9698e8496157814ad896') in 0.005507 seconds
+  Import took 0.008972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008337 seconds.
+  path: Assets/Scenes/XR_Rig_Template.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/XR_Rig_Template.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c509e5865e02f563006da7e953be3ea2') in 0.005396 seconds
+  Import took 0.008116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001889 seconds.
+  path: Assets/VR Hands 2020/Animations/RightHandController.controller
+  artifactKey: Guid(8522cbdd80750fd43a73db5506f38040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Hands 2020/Animations/RightHandController.controller using Guid(8522cbdd80750fd43a73db5506f38040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26eef2892843fabad9d1b5d3c364fb9d') in 0.009048 seconds
+  Import took 0.012053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011606 seconds.
+  path: Assets/VR Hands 2020/Models/r_hand_Model2020.fbx
+  artifactKey: Guid(d0c255d07fd68f14b94e55d388e7e6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Hands 2020/Models/r_hand_Model2020.fbx using Guid(d0c255d07fd68f14b94e55d388e7e6bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb824ec6c1a78b2ea44d1811481dd5a4') in 0.117169 seconds
+  Import took 0.131271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032634 seconds.
+  path: Assets/VR Hands 2020/Models
+  artifactKey: Guid(f86f7081ef3d88a4699b38c51b052b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Hands 2020/Models using Guid(f86f7081ef3d88a4699b38c51b052b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4dc3227463b531c2cc90c9abfaa15c') in 0.004223 seconds
+  Import took 0.007252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001746 seconds.
+  path: Assets/VR Hands 2020
+  artifactKey: Guid(fc418d5ed5159f24b9212a11bb97db1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Hands 2020 using Guid(fc418d5ed5159f24b9212a11bb97db1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '385673b2f713e4b0834d98a741023540') in 0.004202 seconds
+  Import took 0.006947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003167 seconds.
+  path: Assets/VR Hands 2020/Animations/LeftHandController.controller
+  artifactKey: Guid(3927d6553c3f83d469822af2f7e7094c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Hands 2020/Animations/LeftHandController.controller using Guid(3927d6553c3f83d469822af2f7e7094c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5202aafdf1e12370d3196fcdec1119b') in 0.006232 seconds
+  Import took 0.009404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023125 seconds.
+  path: Assets/Scipts/HandAnimationController.cs
+  artifactKey: Guid(0134520d5c4758b4492f472e38e6760d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scipts/HandAnimationController.cs using Guid(0134520d5c4758b4492f472e38e6760d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffad7f3be321827e8d8f96e4724a490') in 0.010777 seconds
+  Import took 0.013502 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001790 seconds.
+  path: Assets/VR Hands 2020/Materials/Hands_solid.mat
+  artifactKey: Guid(3637b758ff163493f8bb8b6d7e96d7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Hands 2020/Materials/Hands_solid.mat using Guid(3637b758ff163493f8bb8b6d7e96d7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adab7048856a88ef5cfd35f3295b3799') in 0.025040 seconds
+  Import took 0.028887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002931 seconds.
+  path: Assets/VR Hands 2020/Models/l_hand_Model2020.fbx
+  artifactKey: Guid(ca20b3907ff1c794cb89c1ad2cce8282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VR Hands 2020/Models/l_hand_Model2020.fbx using Guid(ca20b3907ff1c794cb89c1ad2cce8282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f029144bb77405901b93d64aea86d46') in 0.019089 seconds
+  Import took 0.022413 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
